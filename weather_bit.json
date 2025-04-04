@@ -1,0 +1,53 @@
+{
+    "count": 1,
+    "data": [
+        {
+            "app_temp": 28.9,
+            "aqi": 32,
+            "city_name": "Brasília",
+            "clouds": 26,
+            "country_code": "BR",
+            "datetime": "2025-04-04:16",
+            "dewpt": 17.8,
+            "dhi": 121,
+            "dni": 951,
+            "elev_angle": 65.46,
+            "ghi": 978,
+            "gust": null,
+            "h_angle": 15,
+            "lat": -15.77972,
+            "lon": -47.92972,
+            "ob_time": "2025-04-04 16:13",
+            "pod": "d",
+            "precip": 0,
+            "pres": 903.6,
+            "rh": 54,
+            "slp": 1019,
+            "snow": 0,
+            "solar_rad": 970,
+            "sources": [
+                "SBBR",
+                "radar",
+                "satellite"
+            ],
+            "state_code": "07",
+            "station": "SBBR",
+            "sunrise": "09:17",
+            "sunset": "21:11",
+            "temp": 28,
+            "timezone": "America/Sao_Paulo",
+            "ts": 1743783237,
+            "uv": 8,
+            "vis": 16,
+            "weather": {
+                "description": "Few clouds",
+                "code": 801,
+                "icon": "c02d"
+            },
+            "wind_cdir": "E",
+            "wind_cdir_full": "east",
+            "wind_dir": 100,
+            "wind_spd": 3.6
+        }
+    ]
+}
